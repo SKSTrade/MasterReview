@@ -1,6 +1,6 @@
 {
   "name": "Master Trade System V1.29.2",
-  "short_name": "Master Trade",
+  "short_name": "Master Review",
   "description": "Master Trade Matrix V1.3 Frozen with a post-entry Price Pattern journal field that can also be edited later from the record library.",
   "start_url": "./index.html",
   "scope": "./",
